@@ -1,0 +1,27 @@
+﻿  Q1.cpp
+D:\FAST University\Semester 2\Object Oriented Programming - Thoery\Project\Q1\Q1\Q1.cpp(430,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\FAST University\Semester 2\Object Oriented Programming - Thoery\Project\Q1\Q1\Q1.cpp(434,43): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\FAST University\Semester 2\Object Oriented Programming - Thoery\Project\Q1\Q1\Q1.cpp(438,31): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\FAST University\Semester 2\Object Oriented Programming - Thoery\Project\Q1\Q1\Q1.cpp(442,53): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\FAST University\Semester 2\Object Oriented Programming - Thoery\Project\Q1\Q1\Q1.cpp(542,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\FAST University\Semester 2\Object Oriented Programming - Thoery\Project\Q1\Q1\Q1.cpp(546,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\FAST University\Semester 2\Object Oriented Programming - Thoery\Project\Q1\Q1\Q1.cpp(554,29): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\FAST University\Semester 2\Object Oriented Programming - Thoery\Project\Q1\Q1\Q1.cpp(558,54): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+D:\FAST University\Semester 2\Object Oriented Programming - Thoery\Project\Q1\Q1\Q1.cpp(1504,12): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+D:\FAST University\Semester 2\Object Oriented Programming - Thoery\Project\Q1\Q1\Q1.cpp(1548,12): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+D:\FAST University\Semester 2\Object Oriented Programming - Thoery\Project\Q1\Q1\Q1.cpp(1553,12): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+D:\FAST University\Semester 2\Object Oriented Programming - Thoery\Project\Q1\Q1\Q1.cpp(1605,12): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+D:\FAST University\Semester 2\Object Oriented Programming - Thoery\Project\Q1\Q1\Q1.cpp(1610,12): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+D:\FAST University\Semester 2\Object Oriented Programming - Thoery\Project\Q1\Q1\Q1.cpp(1654,12): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+D:\FAST University\Semester 2\Object Oriented Programming - Thoery\Project\Q1\Q1\Q1.cpp(1659,12): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+D:\FAST University\Semester 2\Object Oriented Programming - Thoery\Project\Q1\Q1\Q1.cpp(1707,12): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+D:\FAST University\Semester 2\Object Oriented Programming - Thoery\Project\Q1\Q1\Q1.cpp(1712,12): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+D:\FAST University\Semester 2\Object Oriented Programming - Thoery\Project\Q1\Q1\Q1.cpp(1740,12): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+D:\FAST University\Semester 2\Object Oriented Programming - Thoery\Project\Q1\Q1\Q1.cpp(1746,12): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+D:\FAST University\Semester 2\Object Oriented Programming - Thoery\Project\Q1\Q1\Q1.cpp(1749,12): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+D:\FAST University\Semester 2\Object Oriented Programming - Thoery\Project\Q1\Q1\Q1.cpp(1762,10): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+D:\FAST University\Semester 2\Object Oriented Programming - Thoery\Project\Q1\Q1\Q1.cpp(1825,14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\FAST University\Semester 2\Object Oriented Programming - Thoery\Project\Q1\Q1\Q1.cpp(1911,12): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+D:\FAST University\Semester 2\Object Oriented Programming - Thoery\Project\Q1\Q1\Q1.cpp(1922,10): warning C4244: 'argument': conversion from 'double' to 'DWORD', possible loss of data
+D:\FAST University\Semester 2\Object Oriented Programming - Thoery\Project\Q1\Q1\Q1.cpp(672,1): warning C4715: 'passenger::get_booking': not all control paths return a value
+  Q1.vcxproj -> D:\FAST University\Semester 2\Object Oriented Programming - Thoery\Project\Q1\x64\Debug\Q1.exe
